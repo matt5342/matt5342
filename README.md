@@ -16,7 +16,7 @@ I am a full-stack software engineer currently based in Maryland. I am passionate
 
 Ruby, Javascript, HTML, CSS
 
-**Frameworks: **
+**Frameworks:**
 
 Ruby on Rails, React, Redux
 
