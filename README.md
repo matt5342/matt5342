@@ -1,6 +1,6 @@
 ### Hi! I'm Matt 🙋‍♂️ 
 
-I am a full-stack software engineer currently based in Maryland. I am passionate about learning and have a knack for picking things up quickly. I have extensive past experience in wine and beer production, where I learned to perform in fast-paced environments with time sensitive operations. I am a graduate from the Flatiron School and am on the hunt for a Software Engineer Role. 
+I am a full-stack software engineer currently based in Maryland. I am passionate about learning and have a knack for picking things up quickly. I have extensive past experience in wine and beer production, where I learned to perform in fast-paced environments with time sensitive operations.
 
 <a href="https://www.linkedin.com/in/matthew-sewell-349446204/">
   <img
@@ -14,11 +14,11 @@ I am a full-stack software engineer currently based in Maryland. I am passionate
 
 **Languages:**
 
-Ruby, Javascript, HTML, CSS
+Ruby, Javascript, C#, Java, HTML, CSS
 
 **Frameworks:**
 
-Ruby on Rails, React, Redux
+Ruby on Rails, React, Redux, .NET, Spring Boot
 
 **Databases:**
 
