@@ -14,20 +14,18 @@ I am a full-stack software engineer currently based in Maryland. I am passionate
 
 **Languages:**
 
-Ruby, Javascript, C#, Java, HTML, CSS
+C#, Ruby, Javascript, Typescript, Java, HTML, CSS
 
 **Frameworks:**
 
-Ruby on Rails, React, Redux, .NET, Spring Boot
+.NET, Vue3, Ruby on Rails, React, Redux, Spring Boot
 
 **Databases:**
 
-PostgreSQL, SQLite
+SQL Server, PostgreSQL, SQLite
 
+I’m currently working on a project to tag images with alts using GPT4's Vision preview model. 
 
-**Currently Learning:**
-
-Java, Spring, Hibernate, MySQL, Maven, Spring Boot
 <!--
 **matt5342/matt5342** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
