@@ -1,6 +1,6 @@
 ### Hi! I'm Matt 🙋‍♂️ 
 
-I am a full-stack software engineer currently based in Maryland. I am passionate about learning and have a knack for picking things up quickly. I have developed backends with .NET, Rails, and a bit of SpringBoot, and frontends with Vue, React, and Razor.
+I am a full-stack software engineer who is passionate about learning and has a knack for picking things up quickly. I have developed backends with .NET, Rails, and a bit of SpringBoot, and frontends with Vue, React, and Razor.
 
 <a href="https://www.linkedin.com/in/matthew-sewell-349446204/">
   <img
